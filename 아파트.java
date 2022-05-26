@@ -1,12 +1,8 @@
 import java.util.Scanner;
 
 class Family{
-	String name1;
-	String name2;
-	String name3;
-	int age1;
-	int age2; 
-	int age3;
+	String name1,name2,name3;
+	int age1,age2,age3;
 	
 	Family(String name1, int age1, String name2, int age2,String name3, int age3 ){
 		
